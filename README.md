@@ -1,19 +1,12 @@
-# Diffusion in 2D
+# Diffusion 2D Solver
 
-## Instructions for students
+This package provides a solver for the two-dimensional diffusion equation, useful for simulations involving heat conduction or other diffusion processes.
 
-Please follow the instructions in [pypi_exercise.md](https://github.com/RSE-102/Lecture-Material/blob/main/03_packaging/pypi_exercise.md).
+## Features
+- Simulates 2D diffusion with configurable parameters.
+- Visualizes temperature distribution at different time steps.
 
-The code used in this exercise is based on [Chapter 7 of the book "Learning Scientific Programming with Python"](https://scipython.com/book/chapter-7-matplotlib/examples/the-two-dimensional-diffusion-equation/).
-
-## Project description
-
-## Installing the package
-
-### Using pip3 to install from PyPI
-
-### Required dependencies
-
-## Running this package
-
-## Citing
+## Installation
+To install the package, simply use:
+```bash
+pip install <your-package-name>
