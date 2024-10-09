@@ -9,4 +9,4 @@ This package provides a solver for the two-dimensional diffusion equation, usefu
 ## Installation
 To install the package, simply use:
 ```bash
-pip install <your-package-name>
+pip install <poryaesygmaildiffusion2D>
